@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Dragonballz Frame',
     description: 'A Farcaster Frame Dragonballz',
-    images: [`${process.env.NEXT_PUBLIC_SITE_URL}/Dragonballz.jpg`],
+    images: [`https://dragonballz-testing.vercel.app/Dragonballz.jpg`],
   },
   other: {
     'fc:frame': 'vNext',
-    'fc:frame:image': `${process.env.NEXT_PUBLIC_SITE_URL}/Dragonballz.jpg`,
-    'fc:frame:post_url': `${process.env.NEXT_PUBLIC_SITE_URL}/api/basic`,
+    'fc:frame:image': `https://dragonballz-testing.vercel.app/Dragonballz.jpg`,
+    'fc:frame:post_url': `https://dragonballz-testing.vercel.app/api/basic`,
     'fc:frame:button:1': 'Mint',
   },
 }
