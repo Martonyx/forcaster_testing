@@ -29,7 +29,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
     <meta property="fc:frame" content="vNext" />
     <meta property="fc:frame:image" content="https://dragonballz-testing.vercel.app/Dragonballz.jpg" />
     <meta property="fc:frame:button:1" content="confirm mint" />
-    <meta property="fc:frame:post_url" content="https://dragonballz-mint.vercel.app/" />
+    <meta property="fc:frame:button:1:target" content="https://dragonballz-mint.vercel.app/" />
   </head></html>`)
 }
 
