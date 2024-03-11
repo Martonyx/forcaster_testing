@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     'fc:frame': 'vNext',
     'fc:frame:image': `https://dragonballz-testing.vercel.app/Dragonballz.jpg`,
     'fc:frame:post_url': `https://dragonballz-testing.vercel.app/api/basic`,
-    'fc:frame:button:1': 'Mint',
+    'fc:frame:button:1': 'Mint Dragonballz NFT',
   },
 }
 
