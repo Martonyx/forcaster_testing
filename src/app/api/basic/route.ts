@@ -30,7 +30,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
     <meta property="fc:frame:image" content="https://dragonballz-testing.vercel.app/dragonballz.jpg" />
     <meta property="fc:frame:button:1" content="Confirm NFT Mint" />
     <meta property="fc:frame:button:1:action" content="link" />
-    <meta property="fc:frame:button:1:target" content="https://uplink.wtf/bamehouse/" />
+    <meta property="fc:frame:button:1:target" content="https://uplink.wtf/bamehouse/mintboard" />
   </head></html>`)
 }
 
