@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   other: {
     'fc:frame': 'vNext',
     'fc:frame:image': `https://dragonballz-testing.vercel.app/dragonballz.jpg`,
+    'fc:frame:image:aspect_ratio': '1.91:1',
     'fc:frame:post_url': `https://dragonballz-testing.vercel.app/api/basic`,
     'fc:frame:button:1': 'Mint Dragonballz NFT',
   },
