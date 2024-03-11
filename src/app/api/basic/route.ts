@@ -25,9 +25,9 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
 
   return new NextResponse(`<!DOCTYPE html><html><head>
     <title>This is frame $Dragonballz</title>
-    <meta property="og:image" content="https://dragonballz-testing.vercel.app/Dragonballz.jpg" />
+    <meta property="og:image" content="https://dragonballz-testing.vercel.app/dragonballz.jpg" />
     <meta property="fc:frame" content="vNext" />
-    <meta property="fc:frame:image" content="https://dragonballz-testing.vercel.app/Dragonballz.jpg" />
+    <meta property="fc:frame:image" content="https://dragonballz-testing.vercel.app/dragonballz.jpg" />
     <meta property="fc:frame:button:1" content="Confirm NFT Mint" />
     <meta property="fc:frame:button:1:action" content="link" />
     <meta property="fc:frame:button:1:target" content="https://uplink.wtf/bamehouse/" />
