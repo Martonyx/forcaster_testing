@@ -15,7 +15,7 @@ const MintPage = () => {
             <button 
               className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
               onClick={() => {
-                window.location.href = 'https://zora.co/collect/base:0xf5a706cc0b797dbc51be69d891bd22ac8f6edb6a/';
+                window.location.href = 'https://zora.co/collect/base:0xf5a706cc0b797dbc51be69d891bd22ac8f6edb6a/1';
               }}
             >
               Mint NFT
