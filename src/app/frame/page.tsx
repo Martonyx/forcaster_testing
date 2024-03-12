@@ -12,7 +12,7 @@ export const metadata: Metadata = {
       'fc:frame': 'vNext',
       'fc:frame:image': `http://dragonbaldz.vercel.app/dragonbaldz.jpg`,
       'fc:frame:image:aspect_ratio': '1:1',
-      'fc:frame:post_url': `http://dragonbaldz.vercel.app/frame`,
+      'fc:frame:post_url': `https://uplink.wtf/bamehouse/mintboard`,
       'fc:frame:button:1': 'Mint R.I.P AKIRA',
       "fc:frame:button:1:action": "link",
       "fc:frame:button:1:target": "https://uplink.wtf/bamehouse/mintboard" 
